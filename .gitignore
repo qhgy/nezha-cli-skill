@@ -1,1 +1,2 @@
-.claude/skills/nezha/config.json
+# Real config with credentials
+.claude/skills/nezha/config.local.json
